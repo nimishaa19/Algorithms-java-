@@ -95,5 +95,3 @@ class MergeSort
 		System.out.println("\nSorted array");
 		printArray(arr);
 	}
-}
-/* This code is contributed by Rajat Mishra */
